@@ -19,3 +19,5 @@ Skills Used:
 Build the project with 'npm run build'
 Run the project with 'npm start'
 
+![Youtube Clone](./youtube.png)
+
