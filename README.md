@@ -1,4 +1,4 @@
-# Youtube APU Project
+# Youtube API Project
 
 Welcome to my Youtube API Prohect which builds an efficient Youtube Clone using the Youtube Rapid API
 
